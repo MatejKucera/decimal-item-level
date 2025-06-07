@@ -1,0 +1,11 @@
+## Interface: 110105
+## Title: DecimalItemLevel
+## Notes: DecimalItemLevel
+## Author: Xmat
+## Version: 1.0
+## SavedVariables:
+## SavedVariablesPerCharacter:
+## RequiredDeps:
+## X-Curse-Project-ID: 1282135
+
+DecimalItemLevel.lua
