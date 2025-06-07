@@ -1,0 +1,1 @@
+Simple WoW addon that shows the item level as decimal number.
